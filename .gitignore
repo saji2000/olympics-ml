@@ -1,0 +1,3 @@
+/my_project_env
+venv/   # Covers environments named 'venv'
+.env/   # Covers environments named '.env'
